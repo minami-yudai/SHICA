@@ -1,2 +1,2 @@
 # SHICA
-Simply House Income Catch App
+Simple Household Income & Cost Assistant
